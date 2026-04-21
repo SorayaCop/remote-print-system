@@ -31,6 +31,6 @@ Caso real
 Desenvolvido para pequeno negócio que precisava de solução simples e sem custos mensais.
 
 ## Executar
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 python manage.py migrate
 python manage.py runserver
