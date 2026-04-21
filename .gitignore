@@ -1,0 +1,15 @@
+venv/
+.env
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.python-version
+*.sqlite3
+.idea/
+.vscode/
+media/
+staticfiles/
+*.log
