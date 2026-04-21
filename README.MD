@@ -21,16 +21,17 @@ Aplicação web hospedada em cloud (Render), permitindo envio remoto de pedidos 
 
 ## Recursos
 
-Login e senha
-Cadastro de pedidos
-Impressão automática
-Inicialização com Windows
-Marcação de pedidos impressos
+Login e senha<br>
+Cadastro de pedidos<br>
+Impressão automática<br>
+Inicialização com Windows<br>
+Marcação de pedidos impressos<br>
 Caso real
 
 Desenvolvido para pequeno negócio que precisava de solução simples e sem custos mensais.
 
 ## Executar
-pip install -r requirements.txt <br>
-python manage.py migrate
+pip install<br> 
+-r requirements.txt <br>
+python manage.py migrate<br>
 python manage.py runserver
